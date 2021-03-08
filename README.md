@@ -84,7 +84,7 @@ Price
 "2,200৳"
 ```
 
-```
+
 we get the exact text format we want by this way
 
 so we are updating the code
