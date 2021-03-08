@@ -206,7 +206,7 @@ while page <= last_page
 
 
 
-So this is the final code . We have added nakigiri and httparty features thus they can extract data while pagination.
+So this is the final code . We have added nokogiri and httparty features thus they can extract data while pagination.
 ```
 
 require 'nokogiri'
